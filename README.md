@@ -1,4 +1,4 @@
-# WarpSwap ⚡
+# WarpSwap⚡
 
 **The fastest & cheapest AMM DEX on Kasplex**  
 0.1 % trading fee • Sub-second finality  
